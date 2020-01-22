@@ -2,7 +2,7 @@ import React from 'react'
 
 function Home() {
   return (
-    <div>Home</div>
+    <h1 className='container mx-auto text-center' >Home</h1>
   )
 }
 
